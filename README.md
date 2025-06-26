@@ -1,4 +1,4 @@
-# 🌐 Cloud-folio – My Personal Portfolio Website
+# 🌐 Cloud-folio 
 
 Welcome to **Cloud-folio**, my clean, responsive, static portfolio website designed to showcase my background, skills, projects, and certifications as an aspiring Cloud Engineer. Built with HTML, CSS, and JavaScript, and proudly hosted on **Amazon S3 under AWS Free Tier**.
 
