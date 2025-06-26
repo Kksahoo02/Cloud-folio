@@ -6,7 +6,7 @@ Welcome to **Cloud-folio**, my clean, responsive, static portfolio website desig
 
 ## 🔗 Live Website
 
-(http://kk-s-portfolio-static.s3-website.ap-south-1.amazonaws.com/))
+http://kk-s-portfolio-static.s3-website.ap-south-1.amazonaws.com/
 ---
 
 ## 💡 About This Project
