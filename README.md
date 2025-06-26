@@ -6,7 +6,7 @@ Welcome to **Cloud-folio**, my clean, responsive, static portfolio website desig
 
 ## 🔗 Live Website
 
-👉 **Visit here:** [View Portfolio on S3]([http://your-bucket-name.s3-website-<region>.amazonaws.com](http://kk-s-portfolio-static.s3-website.ap-south-1.amazonaws.com/))
+(http://your-bucket-name.s3-website-<region>.amazonaws.com](http://kk-s-portfolio-static.s3-website.ap-south-1.amazonaws.com/))
 ---
 
 ## 💡 About This Project
